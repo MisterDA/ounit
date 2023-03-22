@@ -8,6 +8,7 @@ maintainer: ["Sylvain Le Gall <sylvaini+ocaml@le-gall.net>"]
 authors: ["Sylvain Le Gall"]
 license: "MIT"
 homepage: "https://github.com/gildor467/ounit"
+doc: "https://gildor478.github.io/ounit"
 bug-reports: "https://github.com/gildor467/ounit/issues"
 depends: [
   "ocamlfind" {build}
